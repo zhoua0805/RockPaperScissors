@@ -1,6 +1,4 @@
-//AliceZU1A1Q1
 //Alice Zhou
-//For: Mrs. Harris
 //February 20th, 2018
 //Rock Paper Scissors Game: this game prompts the user to play rock paper scissors with the computer.
 //Revision: None
